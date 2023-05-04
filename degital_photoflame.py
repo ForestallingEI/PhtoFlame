@@ -15,11 +15,23 @@ root.title("Degital PhotoFlame")
 canvas = tkinter.Canvas(width=800, height=600)
 canvas.pack()
 photo = [
-    tkinter.PhotoImage(file="NonRealTime/sakura.png"),
-    tkinter.PhotoImage(file="NonRealTime/heart.png"),
-    tkinter.PhotoImage(file="NonRealTime/jikan.png"),
-    tkinter.PhotoImage(file="NonRealTime/mainkuma.png"),
-    tkinter.PhotoImage(file="NonRealTime/nazo.png"),
+    tkinter.PhotoImage(file="imgs/01.png"),
+    tkinter.PhotoImage(file="imgs/02.png"),
+    tkinter.PhotoImage(file="imgs/03.png"),
+    tkinter.PhotoImage(file="imgs/04.png"),
+    tkinter.PhotoImage(file="imgs/05.png"),
+    tkinter.PhotoImage(file="imgs/06.png"),
+    tkinter.PhotoImage(file="imgs/07.png"),
+    tkinter.PhotoImage(file="imgs/08.png"),
+    tkinter.PhotoImage(file="imgs/09.png"),
+    tkinter.PhotoImage(file="imgs/10.png"),
+    tkinter.PhotoImage(file="imgs/11.png"),
+    tkinter.PhotoImage(file="imgs/12.png"),
+    tkinter.PhotoImage(file="imgs/13.png"),
+    tkinter.PhotoImage(file="imgs/14.png"),
+    tkinter.PhotoImage(file="imgs/15.png"),
+    tkinter.PhotoImage(file="imgs/16.png"),
+    tkinter.PhotoImage(file="imgs/rabit.png"),
 ]
 photograph()
 root.mainloop()
